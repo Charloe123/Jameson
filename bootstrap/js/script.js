@@ -143,7 +143,7 @@ const cardContent =[
 
 
     {
-        Image:"images/second-whiskey/whiskey8.png",
+        Image:"images/second-whiskey/second-whiskey/whiskey7.png",
         heading:"Bkack burrel",
         paragraph:"Is our coopers, br who painstakingly give their br bourbon barrels an additional br charring to reveal their untodl br richness ",
         Button:"order now",
